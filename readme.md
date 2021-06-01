@@ -13,10 +13,10 @@
 ## Objetivo(s)👨‍💻💬👩‍💻
 
 <p>✔️ Compreender posicionamento de elementos;</p>
-<p>✔️ Compreendr transição de elementos;</p>
+<p>✔️ Compreender transição de elementos;</p>
 <p>✔️ Ganhar habilidades com animações/elementos responsivos;</p>
 <p>✔️ Ganhar habilidades com divs;</p>
-<p>✔️ Demostrar habilidade de recriação lógica ao público.</p>
+<p>✔️ Demostrar capacidade de recriação de tutorial.</p>
 <br>
 
 ## Referência(s):link:
