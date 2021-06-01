@@ -1,18 +1,10 @@
 
 <h1 align="center">Projeto: Joguinho do PacMan ​🕹️​👾​🎮​</h1> 
 
-<h3 align="left">:dart: :mag_right: Linguagem C </h3>
+<h3 align="left">:dart: :mag_right:Descrição</h3>
 
->Usando linguangem html e CSS para recriar uma animação do famoso joguinho PacMan.
+>Utilizando HTML e CSS recriei uma animação do famoso joguinho PacMan.
 <br>
-
->>Resultado Conquistado
-
-<video width="916" height="368" controls>
-  <source src="https://user-images.githubusercontent.com/81859569/120362695-ba106980-c2e1-11eb-8e6d-c64e5d626734.MP4" type="video/mp4">
-</video>
-
-<a href:="
 
 **<p>👨‍💻💬👩‍💻 Objetivo(s)<p>**
 
