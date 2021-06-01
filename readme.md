@@ -1,10 +1,15 @@
 <h1 align="center">Projeto: Joguinho do PacMan ​🕹️​👾​🎮​</h1> 
+<br>
 
 ## Descrição:dart::mag_right:
 
 >Utilizando HTML e CSS recriei uma animação do famoso joguinho PacMan.
 <br>
-  
+
+<p align="center">
+  <img src="src/assets/to_readme/resultado_projeto.gif.gif">
+</p>
+
 ## Objetivo(s)👨‍💻💬👩‍💻
 
 <p>✔️ Compreender posicionamento de elementos;</p>
